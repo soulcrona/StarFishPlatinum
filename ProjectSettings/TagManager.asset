@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - System
+  - Fish
+  - FishTarget
+  - Environment
+  - Food
+  - MovementTarget
+  - NavMesh
+  - AnimationThingy
+  - MovementTargetParent
+  - Node
+  - BGM
+  - SFX
+  - Environent Selection
+  - Pause - Game
+  - Menu - Main
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Hand Of God
+  - Carousel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Hand Of God
+    uniqueID: 1344546025
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
